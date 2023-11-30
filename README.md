@@ -9,5 +9,3 @@ made this as a college project in a short deadline and I am too lazy to rewrite 
 
 - the stl files for the turret are in the stl folder
 
-click on the image below for youtube video:
-[![](https://img.youtube.com/vi/i2odaMNlr0s/maxresdefault.jpg)](https://www.youtube.com/watch?v=i2odaMNlr0s&ab_channel=DhruvWadhwa)
