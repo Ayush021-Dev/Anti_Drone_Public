@@ -1,6 +1,7 @@
 # Arjuna-Timby  
 Arjuna is the python script that uses a camera to track your hand and arduino based laser turret (aka Timby) will follow drone with high accuracy.   
 Code is messy as it was made with low time on hand
+TIMBY: Targeted Intruder Mitigation by Beaconed Yield
 - open Arjuna.py and put Angles.py in the same folder as Arjuna.py
 - make sure to install opencv, cvzone, mediapipe, numpy and serial libraries
 - open Timby.ino in Arduino and upload it to your microcontroller
